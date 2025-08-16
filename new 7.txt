@@ -2,7 +2,7 @@ Dial : the face of a
  clock or watch, or a similar control on a machine,
  piece of equipment or vehicle that shows a measurement of time, amount, speed, temperature, etc.
 Spanish  , 
-
+este cambio es para la muestra de git hub fecha 15 de agosto de 2025
 swicth to change or make something change from one thing to another
 spanish : cambiar 
 
